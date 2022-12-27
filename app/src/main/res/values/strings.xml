@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyExpandableViewDemo</string>
+<string-array name="abbreviation_list_header">
+    <item>	ACU	</item>
+    <item>	ADB	</item>
+    <item>	ADP	</item>
+    <item>	ADs	</item>
+    <item>	ADR	</item>
+    <item>	ADSL	</item>
+    <item>	AH	</item>
+    <item>	AI	</item>
+    <item>	AICC	</item>
+    <item>	AIDS	</item>
+    <item>	AIS	</item>
+    <item>	ALM	</item>
+    <item>	AML	</item>
+    <item>	APA	</item>
+    <item>	API	</item>
+    <item>	APO	</item>
+    <item>	APG	</item>
+</string-array>
+    <string-array name="abbreviation_list_child">
+        <item>	Asian Clearing Union	</item>
+        <item>	Asian Development Bank	</item>
+        <item>	Annual Development Program	</item>
+        <item>	Authorised Dealers	</item>
+        <item>	Alternative Dispute Resolution	</item>
+        <item>	Asymmetric Digital Subscriber Line	</item>
+        <item>	Asian Highway	</item>
+        <item>	Artificial Insemination	</item>
+        <item>	Agriculture Information and Communication Centre	</item>
+        <item>	Acquired Immune Deficiency syndrome	</item>
+        <item>	Agriculture Information Service	</item>
+        <item>	Asset-Liability Management	</item>
+        <item>	Anti-Money Laundering	</item>
+        <item>	Annual Performance Agreement	</item>
+        <item>	Active Pharmaceutical Ingredient	</item>
+        <item>	Asian Productivity Organisation	</item>
+        <item>	Asia Pacific Group	</item>
+
+    </string-array>
+
+</resources>
